@@ -30,3 +30,6 @@ git diff nom_du_fichier.extension
 ### Conventions standards pour les messages de commit :
 - Doivent être entre guillemets
 - Ecrits au présent
+
+### Git log : 
+- permet de voir les différents commits qui ont été éffectués sur le repository ainsi que les dates et les auteurs
